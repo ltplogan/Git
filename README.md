@@ -18,6 +18,7 @@ $ git diff
 Si es el último cambio y nos hemos olvidado de algo podemos volver atrás con el comando **git commit --amend**.
 **git checkout** -- index.html descarta cambios. Si queremos el archivo como estaba antes. Si hacemos un git add en este caso no podemos hacer un git checkout, en este caso utilizamos **git reset HEAD index.html** para indicarle que quiero resetear un archivo y poder eliminar la última modificación.
 
+## Cómo deshacer un commit
 
 
 
